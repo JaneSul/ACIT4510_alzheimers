@@ -4,3 +4,7 @@ numpy
 matplotlib
 sklearn
 seaborn
+xgboost
+optuna
+imblearn
+lightgbm
